@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT smcc_4759.wsgi:application

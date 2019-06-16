@@ -1,0 +1,3 @@
+rootProject.name = 'smcc_4759'
+
+include ':app'
